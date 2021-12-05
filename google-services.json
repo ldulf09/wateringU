@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480519686301",
+    "project_id": "watering-trial",
+    "storage_bucket": "watering-trial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480519686301:android:cedf2778bcc53f17b82c74",
+        "android_client_info": {
+          "package_name": "com.example.ble_keyboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480519686301-6ucu868c0imohl9av74ujuj27dv6n642.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH7J3sybNHbug8CndjmCoi3h0zip9kemk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480519686301-6ucu868c0imohl9av74ujuj27dv6n642.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
